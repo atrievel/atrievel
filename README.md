@@ -54,5 +54,5 @@
 
 </details>
 
-[website]: https://www.alec-trievel.com
+[website]: https://www.alectrievel.com
 [linkedin]: https://www.linkedin.com/in/alec-trievel-8b869399/

@@ -1,6 +1,6 @@
 ### Hi there, I'm Alec 👋
 
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fwww.alectrievel.com%2F)](https://www.alec-trievel.com)
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fwww.alectrievel.com%2F)][website]
 
 
 ## I'm a Developer with a Passion for the Cloud 🌩
@@ -54,5 +54,5 @@
 
 </details>
 
-[website]: https://www.alec-trievel.com
+[website]: https://www.alectrievel.com
 [linkedin]: https://www.linkedin.com/in/alec-trievel-8b869399/

@@ -14,6 +14,7 @@
     - Learn Docker ✔
     - Explore Flutter 🐦 and Deno 🦕 ✔
     - Learn GraphQL
+    - Learn messaging service (RabbitMQ, Kafka, Pulsar)
     - Continue acquiring ☁ knowledge
 
 ### Connect with me:

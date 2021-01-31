@@ -5,17 +5,14 @@
 
 ## I'm a Developer with a Passion for the Cloud 🌩
 - 🔭 I’m currently working on 
-    - Finishing my website
-    - Re-working my NHL API
+    - Just learning
 - 🌱 I’m currently learning 
-    - GraphQL
-- 🥅 2020 Goals:
-    - Contribute more to Open Source projects
-    - Learn Docker ✔
-    - Explore Flutter 🐦 and Deno 🦕 ✔
-    - Learn GraphQL
-    - Learn messaging service (RabbitMQ, Kafka, Pulsar)
-    - Continue acquiring ☁ knowledge
+    - 
+- 🥅 2021 Goals:
+    - Continue learning Flutter 🐦
+        - Focus more on iOS development  
+    - Revist React (or maybe take a look at Vue?)
+    - Gain in-depth knowledge of gRPC
 
 ### Connect with me:
 

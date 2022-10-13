@@ -1,18 +1,11 @@
 ### Hi there, I'm Alec 👋
 
-![](https://komarev.com/ghpvc/?username=atrievel)
-
 
 ## I'm a Developer with a Passion for the Cloud 🌩
 - 🔭 I’m currently working on 
-    - Just learning
+    - 
 - 🌱 I’m currently learning 
     - 
-- 🥅 2021 Goals:
-    - Continue learning Flutter 🐦
-        - Focus more on iOS development  
-    - Revist React (or maybe take a look at Vue?)
-    - Gain in-depth knowledge of gRPC
 
 ### Connect with me:
 

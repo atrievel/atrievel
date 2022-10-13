@@ -1,6 +1,6 @@
 ### Hi there, I'm Alec 👋
 
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fwww.alectrievel.com%2F)][website]
+![](https://komarev.com/ghpvc/?username=atrievel)
 
 
 ## I'm a Developer with a Passion for the Cloud 🌩

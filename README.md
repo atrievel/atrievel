@@ -7,43 +7,114 @@
 - 🌱 I’m currently learning 
     - 
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div>
+    <a href="https://www.linkedin.com/in/alec-trievel-8b869399">
+        <img src="./images/social/linkedin.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="LinkedIn">
+    </a>
+</div>
 
-<br />
+### Languages and Tools
 
-### Languages and Tools:
-<img align="left" alt="CSharp-dotnet" width="22px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&v=4" />
+#### Back end 
 
-<img align="left" alt="Angular" width="22px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+<div>
+    <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="./images/tech/backend/dotnet.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="C# / dotnet">
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server">
+        <img src="./images/tech/backend/sql-server.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="SQL Server">
+    </a>
+    <a href="https://nodejs.dev/">
+        <img src="./images/tech/backend/node.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="NodeJS">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="./images/tech/backend/python.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Python">
+    </a>
+    <a href="hhttps://www.postgresql.org/">
+        <img src="./images/tech/backend/postgres.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Postgres">
+    </a>
+    <a href="https://deno.land/">
+        <img src="./images/tech/backend/deno.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Deno">
+    </a>
+</div>
 
-<img align="left" alt="Azure" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+#### Front end 
 
-<img align="left" alt="GCP" width="22px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
+<div>
+    <a href="https://angular.io/">
+        <img src="./images/tech/frontend/angular.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Angular">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="./images/tech/frontend/typescript.svg" 
+        style="height:25px; width:25px; padding-right: 10px"
+        alt="TypeScript">
+    </a>
+    <a href="https://www.javascript.com/">
+        <img src="./images/tech/frontend/javascript.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="JavaScript">
+    </a>
+    <a href="https://sass-lang.com/">
+        <img src="./images/tech/frontend/sass.svg" 
+        style="height:25px; width:25px;" 
+        alt="Sass">
+    </a>
+</div>
 
-<img align="left" alt="Docker" width="22px" src="https://avatars0.githubusercontent.com/u/5429470?s=200&v=4" />
+#### Cloud
 
-<img align="left" alt="Node" width="22px" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" />
+<div>
+    <a href="https://azure.microsoft.com/">
+        <img src="./images/tech/cloud/azure.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Azure">
+    </a>
+    <a href="https://firebase.google.com/">
+        <img src="./images/tech/cloud/firebase.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Firebase">
+    </a>
+</div>
 
-<img align="left" alt="Python" width="22px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />
+#### Misc
 
-<img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-
-<br />
-<br />
+<div>
+    <a href="https://www.docker.com/">
+        <img src="./images/tech/misc/docker.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Docker">
+    </a>
+    <a href="https://www.elastic.co/">
+        <img src="./images/tech/misc/elasticsearch.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Elasticsearch">
+    </a>
+    <a href="https://redis.io/">
+        <img src="./images/tech/misc/redis.svg" 
+        style="height:25px; width:25px; padding-right: 10px" 
+        alt="Redis">
+    </a>
+</div>
 
 ---
 
 ### 💻 Github Stats
 [![Alec's github stats](https://github-readme-stats.vercel.app/api?username=atrievel&count_private=true&show_icons=true&theme=nord)](https://github.com/atrievel/github-readme-stats)
-
-</details>
-
-[website]: https://www.alectrievel.com
-[linkedin]: https://www.linkedin.com/in/alec-trievel-8b869399/

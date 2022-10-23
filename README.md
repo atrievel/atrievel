@@ -1,11 +1,11 @@
 ### Hi there, I'm Alec 👋
 
 
-## I'm a Developer with a Passion for the Cloud 🌩
+## I'm a developer with a passion for the cloud 🌩
 - 🔭 I’m currently working on 
-    - 
+    - Elastichsearch query builder UI
 - 🌱 I’m currently learning 
-    - 
+    - Azure certification AZ-305
 
 ### Connect with me
 
